@@ -35,16 +35,7 @@ Your teammates should use the same Firebase config values so everyone sees the s
 
 Shared Firebase `.env` values:
 
-```env
-EXPO_PUBLIC_FIREBASE_API_KEY=AIzaSyDY8ekCxH9Hk5QsbT80YJXKnzHO1pFi2TA
-EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN=roomie-c5402.firebaseapp.com
-EXPO_PUBLIC_FIREBASE_PROJECT_ID=roomie-c5402
-EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET=roomie-c5402.firebasestorage.app
-EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=624241873756
-EXPO_PUBLIC_FIREBASE_APP_ID=1:624241873756:web:99e2129cac26bac9236799
-```
 
-Each teammate should:
 
 1. Clone or download this project.
 2. Run `npm install`.
