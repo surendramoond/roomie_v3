@@ -1,4 +1,4 @@
-// central route names make navigation changes way easier later on
+// central route names make navigation changes way easier if we want to change it later 
 export const AUTH_ROUTES = Object.freeze({
   LOGIN: 'Login',
   SIGNUP: 'Signup',
